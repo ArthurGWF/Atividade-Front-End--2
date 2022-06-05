@@ -1,0 +1,101 @@
+body{
+    overflow: hidden;
+}
+
+#fundo{
+    background-color: #18181c;
+    position: relative;
+    top:-10px;
+    left: -10px;
+    width: 18em;
+    color:white;
+    height: 80em;
+}
+#logo{
+    position:relative;
+    left: 15px;
+    padding: 25px ;
+
+}
+
+#foto{
+    background-color: white;
+    position: relative;
+    left: 18em;
+    top: -46em;
+}
+#sinal{
+    position: absolute;
+    left: 27.5em;
+    top: 0em;
+
+}
+
+#mulher{
+    position: absolute;
+    top: 50em;
+    
+}
+
+#janela{
+    position: absolute;
+    left: 27.5em;
+    top: 25em;
+}
+
+#nada{
+    position: absolute;
+    left: 52.5em;
+    top: 25em;
+}
+
+#carro{
+    position:absolute;
+    left: 77.5em;
+    top: 0em;
+}
+
+#mulher2{
+    position:absolute;
+    left: 77.5em;
+    top: 25em;
+}
+
+#mao{
+    position: absolute;
+    top: 50em;
+    left: 27.5em;
+}
+
+#teto{
+    position: absolute;
+    top: 50em;
+    left: 52.5em;
+}
+
+ul li {
+    list-style: none;
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.marrom{
+    position: relative;
+    border: 3px;
+    background-color: #99896e;
+    left: -10em;
+    text-align: right;
+}
+
+a{
+    position: relative;
+    top: 10em;
+    left: 10px;
+    text-align: center;
+    font-size: 15px;
+    color:#99896e;
+}
+
+.titulo{
+    color: #99896e
+}
